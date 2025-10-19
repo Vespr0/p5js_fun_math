@@ -5,8 +5,6 @@ let range = 5;
 
 let heatmap; // Buffer grafico per la mappa di calore
 
-import {drawHeatmap} from "util/heatmap";
-
 // --- SETUP INIZIALE ---
 
 // Definiamo la nostra funzione a 2 variabili
